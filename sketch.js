@@ -1,4 +1,5 @@
 var fixedRect,movingRect;
+var object1;
 
 function setup() {
   createCanvas(1200,800);
